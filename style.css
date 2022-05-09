@@ -14,9 +14,9 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-    height: 100%;
-    width: 100%;
-    padding: 0px 10px;
+  height: 100%;
+  width: 100%;
+  padding: 0px 10px;
 }
 
 
@@ -100,12 +100,12 @@ input[type="checkbox"], input[type="radio"] {
 #comments {
   padding: 1em;
   min-height: 10em;
-    width: 100%;
-    padding: 10px;
-    resize: vertical;
-    color: #495057;
-    font-size: 1em;
-    margin-top: 1em;
+  width: 100%;
+  padding: 10px;
+  resize: vertical;
+  color: #495057;
+  font-size: 1em;
+  margin-top: 1em;
 }
 
 label {
